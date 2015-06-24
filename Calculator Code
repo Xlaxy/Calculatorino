@@ -49,3 +49,5 @@ int solve(int num1, int num2, char oper)
    solve(num1, num2, oper);
   }
  }
+
+//Copyright Ogie Yuki-Igbinosa
